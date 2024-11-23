@@ -134,7 +134,7 @@
 👥 **Followers:** 244  
 👤 **Following:** 327  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2l33k&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 
 ## Recent Activity
 
@@ -164,7 +164,7 @@ Data Visualization Using Python - IBM
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/m2l33k/m2l33k/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
