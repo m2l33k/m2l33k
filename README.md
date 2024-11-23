@@ -120,6 +120,47 @@
 </div>
 
 ###
+## Top Projects
+
+- [**SMART-SHIELD**](https://github.com/m2l33k/SMARTSHIELD-): AI-Powered Cybersecurity Automation 🛡️ | ⭐ 1 | Language: PHP | Open Issues: 5
+
+- [**Luducatio**](https://github.com/m2l33k/Luducatio): Robot éducatif pour l'apprentissage des échecs  | ⭐ 0 | Language: Python | Open Issues: 0
+
+- [**techPioneers**](https://github.com/m2l33k/techPioneers): A platform for showcasing innovative tech projects | ⭐ 0 | Language: SCSS | Open Issues: 0
+
+## GitHub Stats
+
+🌟 **Public Repositories:** 26  
+👥 **Followers:** 244  
+👤 **Following:** 327  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2l33k&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## Recent Activity
+
+- 🗂 Created the repository **Luducatio** on November 20, 2024.
+- ✏️ Uploaded a README to **Luducatio** on November 21, 2024.
+- 🔄 Pushed updates to **techPioneers** on November 19, 2024.
+- 📥 Made changes to **ChessRobot** on November 20, 2024.
+
+- 
+## Latest Blog Posts
+
+You can find my blog on Medium: https://medium.com/@malekaziz.hassayoun
+
+## Certifications
+
+-[Oracle Cloud Infrastructure 2024 Certified] (AI Foundations Associate)
+
+-[SCRUM Fundamentals (CASF)]
+
+-ISO/IEC 27001 Information Security Associate™
+
+-Cisco Certified - Introduction to Cybersecurity
+
+Data Privacy Fundamentals - Fireside Analytics Inc.
+
+Data Visualization Using Python - IBM
 
 <br clear="both">
 
