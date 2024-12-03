@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Cybersecurity Engineering Student | Passionate Volunteer | Aspiring Pentester | Enthusiastic About IT Security and Ethical Hacking</h2>
+<h2 align="left">IT Student | Passionate Volunteer | Aspiring Pentester | Enthusiastic About IT Security and Ethical Hacking</h2>
 
 ###
 
