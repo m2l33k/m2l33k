@@ -1,182 +1,99 @@
-<h3 align="left">Hi 👋, I'm Malek Aziz Hassayoun</h3>
+<div align="center">
+  <h1>Malek Aziz Hassayoun (m2l33k)</h1>
+  <p>IT Student • Volunteer • Aspiring Pentester • Security &amp; Ethical Hacking</p>
 
-###
+  <p>
+    <a href="https://www.linkedin.com/in/malek-hassayoun/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/m2l3k.arm">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:malekaziz.hassayoun@ieee.org">
+      <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://facebook.com/malek.hassayoun">
+      <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@malekaziz.hassayoun">
+      <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
+    </a>
+  </p>
 
-<h2 align="left">IT Student | Passionate Volunteer | Aspiring Pentester | Enthusiastic About IT Security and Ethical Hacking</h2>
-
-###
-
-<p align="left">I'm always looking for new ways to enhance my skills and contribute to meaningful projects in the realm of cybersecurity and software development. Whether it's developing tools for vulnerability analysis or automating incident response, I'm dedicated to creating innovative solutions that help strengthen digital security.<br><br>Feel free to explore my repositories, where you'll find projects ranging from network intrusion detection systems to AI-driven cybersecurity platforms. I’m also an active contributor to open-source projects and enjoy collaborating with other developers and security enthusiasts.</p>
-
-###
-
-<div align="left">
-  <a href="m2l3k.arm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="m2l3ktn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="malekaziz.hassayoun@ieee.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/malek-hassayoun/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="facebook.com/malek.hassayoun" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+  <p>
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=m2l33k&style=flat&color=6b5b95" />
+    <img alt="Followers" src="https://img.shields.io/github/followers/m2l33k?label=Followers&style=flat&color=6b5b95" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/m2l33k?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat&color=6b5b95" />
+  </p>
 </div>
 
-###
+## About
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRqeDRybjhiYjFtMXliOTJ1MnMzMnpsaDk4eGo0ZXd4ZGVyM2NjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+I build and learn in cybersecurity and software development. My focus is on practical security work: analyzing vulnerabilities, automating defensive workflows, and experimenting with tools that improve detection and response.
 
-###
+- Interests: penetration testing, web security, automation, incident response, secure coding
+- Collaboration: open-source contributions and security-focused projects
+- Contact: `malekaziz.hassayoun@ieee.org` • Discord: `m2l3ktn`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" height="30" alt="doctrine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+## Tech Stack
+
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000000" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 </div>
 
-###
-## Top Projects
+<div align="center">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+</div>
 
-- [**SMART-SHIELD**](https://github.com/m2l33k/SMARTSHIELD-): AI-Powered Cybersecurity Automation 🛡️ | ⭐ 1 | Language: PHP | Open Issues: 5
+<div align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+</div>
 
-- [**Luducatio**](https://github.com/m2l33k/Luducatio): Robot éducatif pour l'apprentissage des échecs  | ⭐ 0 | Language: Python | Open Issues: 0
+## Featured Projects
 
-- [**techPioneers**](https://github.com/m2l33k/techPioneers): A platform for showcasing innovative tech projects | ⭐ 0 | Language: SCSS | Open Issues: 0
-
-## GitHub Stats
-
-🌟 **Public Repositories:** 26  
-👥 **Followers:** 244  
-👤 **Following:** 327  
-
-
-
-## Recent Activity
-
-- 🗂 Created the repository **Luducatio** on November 20, 2024.
-- ✏️ Uploaded a README to **Luducatio** on November 21, 2024.
-- 🔄 Pushed updates to **techPioneers** on November 19, 2024.
-- 📥 Made changes to **ChessRobot** on November 20, 2024.
-
-- 
-## Latest Blog Posts
-
-You can find my blog on Medium: https://medium.com/@malekaziz.hassayoun
+| Project | Summary | Live Badges |
+| --- | --- | --- |
+| [SMART-SHIELD](https://github.com/m2l33k/SMARTSHIELD-) | AI-powered cybersecurity automation (PHP). | ![Stars](https://img.shields.io/github/stars/m2l33k/SMARTSHIELD-?style=flat) ![Issues](https://img.shields.io/github/issues/m2l33k/SMARTSHIELD-?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/m2l33k/SMARTSHIELD-?style=flat) |
+| [Luducatio](https://github.com/m2l33k/Luducatio) | Educational robot project for learning chess (Python). | ![Stars](https://img.shields.io/github/stars/m2l33k/Luducatio?style=flat) ![Issues](https://img.shields.io/github/issues/m2l33k/Luducatio?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/m2l33k/Luducatio?style=flat) |
+| [techPioneers](https://github.com/m2l33k/techPioneers) | Platform for showcasing innovative tech projects (SCSS). | ![Stars](https://img.shields.io/github/stars/m2l33k/techPioneers?style=flat) ![Issues](https://img.shields.io/github/issues/m2l33k/techPioneers?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/m2l33k/techPioneers?style=flat) |
 
 ## Certifications
 
--[Oracle Cloud Infrastructure 2024 Certified] (AI Foundations Associate)
+- Oracle Cloud Infrastructure 2024 Certified: AI Foundations Associate
+- Scrum Fundamentals (CASF)
+- ISO/IEC 27001 Information Security Associate
+- Cisco Certified: Introduction to Cybersecurity
+- Data Privacy Fundamentals (Fireside Analytics Inc.)
+- Data Visualization Using Python (IBM)
 
--[SCRUM Fundamentals (CASF)]
-
--ISO/IEC 27001 Information Security Associate™
-
--Cisco Certified - Introduction to Cybersecurity
-
-Data Privacy Fundamentals - Fireside Analytics Inc.
-
-Data Visualization Using Python - IBM
-
-<br clear="both">
-
-
-
-###
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m2l33k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m2l33k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=m2l33k&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+  <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=m2l33k&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/m2l33k/count.svg?"  />
+  <img alt="GitHub Streak" height="180" src="https://streak-stats.demolab.com?user=m2l33k&theme=dracula&hide_border=true" />
 </div>
 
-###
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=m2l33k&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <img alt="Visitor counter" src="https://profile-counter.glitch.me/m2l33k/count.svg" />
+</div>
