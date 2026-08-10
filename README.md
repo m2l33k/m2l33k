@@ -1,13 +1,13 @@
 <!-- ===================== HACKER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=220&section=header&text=m2l33k&fontColor=00ff9c&fontSize=85&animation=fadeIn&fontAlignY=38&desc=%3E%20Aspiring%20Pentester%20//%20Ethical%20Hacking%20//%20Security%20Automation&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=220&section=header&text=m2l33k&fontColor=00ff9c&fontSize=85&animation=fadeIn&fontAlignY=38&desc=%3E%20Security%20Engineer%20//%20AI-driven%20Offensive%20Tooling%20//%20OWASP%20%2B%20Automation&descAlignY=60&descSize=17" width="100%"/>
 
 <!-- glitch / matrix code stream -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FF9C&center=true&vCenter=true&width=760&height=90&lines=root%40m2l33k%3A~%23+access+granted+_;whoami+%3E+Malek+Aziz+Hassayoun;Aspiring+Pentester+%2F%2F+Security+Engineer;Breaking+things+to+learn+how+they+work;sudo+hack+--the+--planet+--ethically" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FF9C&center=true&vCenter=true&width=780&height=90&lines=root%40m2l33k%3A~%23+access+granted+_;whoami+%3E+Malek+Aziz+Hassayoun;Security+Engineer+%2F%2F+Web+%26+AI+Pentesting;OWASP+ZAP+automation+%7C+anomaly+detection;Breaking+things+to+learn+how+they+work;sudo+hack+--the+--planet+--ethically" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
   <a href="https://instagram.com/m2l3k.arm">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00FF9C" />
   </a>
-  <a href="mailto:malekaziz.hassayoun@ieee.org">
+  <a href="mailto:hassayounmalekaziz@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
   </a>
   <a href="https://facebook.com/malek.hassayoun">
@@ -66,10 +66,12 @@ class M2l33k:
 
 I build and learn in cybersecurity and software development. My focus is on practical security work: analyzing vulnerabilities, automating defensive workflows, and experimenting with tools that improve detection and response.
 
+- 🔭 **Currently:** researching smart-grid security (blockchain + AI anomaly detection) @ ESPRIT
+- 🌱 **Learning:** advanced web exploitation, cloud security, and detection engineering
 - 🛰️ **Interests:** penetration testing, web security, automation, incident response, secure coding
-- 🎓 **Current:** B.S. Software Engineering @ ESPRIT (Ariana, Tunisia)
-- 🤝 **Collaboration:** IEEE projects, open-source contributions, security-focused teams
-- 📡 **Contact:** `malekaziz.hassayoun@ieee.org` • Discord: `m2l3ktn`
+- 🎓 **Studying:** B.S. Software Engineering @ ESPRIT (Ariana, Tunisia)
+- 🤝 **Open to:** security internships, CTF teams, IEEE projects & open-source collaborations
+- 📡 **Reach me:** `hassayounmalekaziz@gmail.com` • Discord: `m2l3ktn`
 
 <br clear="right"/>
 
@@ -173,7 +175,29 @@ I build and learn in cybersecurity and software development. My focus is on prac
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=240&height=32&lines=%3E+projects" alt="projects"/>
 
-### `[ public_repos ]`
+### `[ featured ]` — pinned exploits
+
+<div align="center">
+
+<a href="https://github.com/m2l33k/ASAT">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=m2l33k&repo=ASAT&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/m2l33k/filtre-chain">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=m2l33k&repo=filtre-chain&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/m2l33k/SentenX">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=m2l33k&repo=SentenX&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/m2l33k/ConiCare">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=m2l33k&repo=ConiCare&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+</a>
+
+</div>
+
+> `[*]` **Cyber Sentinel (ASAT)** — automated SAST + recon: Semgrep scanning, Nmap enumeration, and AI-assisted vulnerability assessment in one pipeline. · **Python · Semgrep · Nmap · AI/ML**
+> `[*]` **Offensive Message Filter** — real-time ML classifier exposed over a REST API to flag toxic/abusive content at ingest. · **Python · ML · REST · Angular**
+
+### `[ public_repos ]` — full archive
 
 | Project | Period | Category | Status | Highlights | Stack (high level) | Repo Badges |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -192,8 +216,8 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | --- | --- | --- | --- |
 | ERP system for ISO 9001 process automation (Cocosunult) | Dev | Oct 2024 – May 2025 | Automated ISO 9001 compliance, reduced manual work by 60% |
 | AI-driven cybersecurity incident response platform (IEEE) | AI | Jul 2024 – Sep 2024 | Accelerated response by 35% with Snort/Suricata integration |
-| Basic network sniffer | Cybersecurity | 2024 | Traffic monitoring to detect suspicious activity (Scapy) |
-| Phishing awareness training | Cybersecurity | 2024 | Interactive training to prevent phishing attacks |
+| Basic network sniffer | Cybersecurity | 2024 | Live packet capture & protocol analysis (TCP/UDP/ICMP) with Scapy to flag anomalous traffic patterns |
+| Phishing awareness training | Cybersecurity | 2024 | Interactive simulation + training module to teach users to spot and report phishing attempts |
 | NextJEEL | Dev | 2024 | Modern responsive platform for interactive learning |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -205,6 +229,22 @@ I build and learn in cybersecurity and software development. My focus is on prac
 ```
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=320&height=32&lines=%3E+certifications" alt="certifications"/>
+
+### `[ featured — security ]`
+
+| Certification | Issuer | Year | Credential |
+| --- | --- | --- | --- |
+| **Ethical Hacker** | Cisco | 2025 | [Verify](https://www.credly.com/badges/d99c8f70-d850-4db5-a0f8-8f95d57b6623/public_url) |
+| **Junior Cybersecurity Analyst** | Cisco | 2025 | [Verify](https://www.credly.com/badges/213294e0-c258-4c39-acda-2036a43982bf/public_url) |
+| **AppSec (CAP)** | The SECOPS GROUP | 2025 | ID `10087776` |
+| **Cisco Cybersecurity** | Cisco | 2024 | [Verify](https://www.credly.com/badges/a48a3270-e587-47a0-ad30-9a183c5c4c42/public_url) |
+| **Networking Basics** | Cisco | 2025 | [Verify](https://www.credly.com/badges/9fd70672-a3d4-4f9e-965b-a0e595643164/public_url) |
+| **TryHackMe Pre Security** | TryHackMe | 2025 | [Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YALUUJOW4H.pdf) |
+
+<details>
+<summary><b>📜 View all 23 certifications (AI · Cybersecurity · Dev)</b></summary>
+
+<br/>
 
 | Certification | Issuer | Year | Category | Status | Credential ID | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -231,6 +271,25 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | IBM Data Visualization | IBM | 2024 | Dev | Active | 3e8597df-085b-4c34-be6a-a47a657f93b6 | https://www.credly.com/badges/3e8597df-085b-4c34-be6a-a47a657f93b6/public_url |
 | Python Essentials 1 | Python Institute | 2025 | Dev | Active | 054bf6b2-8d3d-468e-a078-ec3473a2afff | https://www.credly.com/badges/054bf6b2-8d3d-468e-a078-ec3473a2afff/public_url |
 | AWS Training Badge | AWS | 2025 | Dev | Active | c8c788e5-d0d9-4723-95b4-e78d4c268aec | https://www.credly.com/badges/c8c788e5-d0d9-4723-95b4-e78d4c268aec/public_url |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- ===================== WRITEUPS ===================== -->
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ tail -f ./writeups/latest.log
+```
+
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=240&height=32&lines=%3E+writeups" alt="writeups"/>
+
+Security notes, CTF writeups, and research I publish. Full archive on [Medium →](https://medium.com/@malekaziz.hassayoun)
+
+<!-- Add your latest posts here as: | Title | Topic | Link | -->
+| Post | Topic | Link |
+| --- | --- | --- |
+| _First writeup coming soon…_ | Web / Pentest | [Medium](https://medium.com/@malekaziz.hassayoun) |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
@@ -283,6 +342,15 @@ I build and learn in cybersecurity and software development. My focus is on prac
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+node.;Stay+curious.+Hack+ethically.;%5B+connection+closed+%5D" alt="footer typing" />
+</a>
+
+**`>` Open to security internships & collaborations — let's connect.**
+
+<a href="mailto:hassayounmalekaziz@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Reach%20out-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
+</a>
+<a href="https://www.linkedin.com/in/malek-hassayoun/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
 </a>
 
 ```console
