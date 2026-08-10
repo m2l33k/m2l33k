@@ -177,25 +177,56 @@ I build and learn in cybersecurity and software development. My focus is on prac
 
 ### `[ featured ]` — pinned exploits
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/m2l33k/ASAT">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=m2l33k&repo=ASAT&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/m2l33k/filtre-chain">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=m2l33k&repo=filtre-chain&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/m2l33k/SentenX">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=m2l33k&repo=SentenX&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/m2l33k/ConiCare">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=m2l33k&repo=ConiCare&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-</a>
+#### 🛡️ [Cyber Sentinel — ASAT](https://github.com/m2l33k/ASAT)
+Automated SAST + recon in one pipeline: Semgrep scanning, Nmap enumeration, and AI-assisted vulnerability assessment.
 
-</div>
+`Python` · `Semgrep` · `Nmap` · `AI/ML`
 
-> `[*]` **Cyber Sentinel (ASAT)** — automated SAST + recon: Semgrep scanning, Nmap enumeration, and AI-assisted vulnerability assessment in one pipeline. · **Python · Semgrep · Nmap · AI/ML**
-> `[*]` **Offensive Message Filter** — real-time ML classifier exposed over a REST API to flag toxic/abusive content at ingest. · **Python · ML · REST · Angular**
+![Stars](https://img.shields.io/github/stars/m2l33k/ASAT?style=for-the-badge&color=00ff9c&labelColor=0A0A0A)
+![Last Commit](https://img.shields.io/github/last-commit/m2l33k/ASAT?style=for-the-badge&color=00ff9c&labelColor=0A0A0A)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚫 [Offensive Message Filter](https://github.com/m2l33k/filtre-chain)
+Real-time ML classifier served over a REST API to flag toxic/abusive content at ingest.
+
+`Python` · `ML` · `REST` · `Angular`
+
+![Stars](https://img.shields.io/github/stars/m2l33k/filtre-chain?style=for-the-badge&color=00ff9c&labelColor=0A0A0A)
+![Last Commit](https://img.shields.io/github/last-commit/m2l33k/filtre-chain?style=for-the-badge&color=00ff9c&labelColor=0A0A0A)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚔️ [Code Arena AI — SentenX](https://github.com/m2l33k/SentenX)
+Multi-agent coding tournament: model-vs-model battle arena with a human-in-the-loop review UI.
+
+`Python` · `Flask` · `Ollama`
+
+![Stars](https://img.shields.io/github/stars/m2l33k/SentenX?style=for-the-badge&color=00ff9c&labelColor=0A0A0A)
+![Last Commit](https://img.shields.io/github/last-commit/m2l33k/SentenX?style=for-the-badge&color=00ff9c&labelColor=0A0A0A)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 [Cognicare (IEEE)](https://github.com/m2l33k/ConiCare)
+AI-driven assessment with gamified therapy and progress tracking.
+
+`Next.js 14` · `FastAPI` · `Supabase` · `OpenCV`
+
+![Stars](https://img.shields.io/github/stars/m2l33k/ConiCare?style=for-the-badge&color=00ff9c&labelColor=0A0A0A)
+![Last Commit](https://img.shields.io/github/last-commit/m2l33k/ConiCare?style=for-the-badge&color=00ff9c&labelColor=0A0A0A)
+
+</td>
+</tr>
+</table>
 
 ### `[ public_repos ]` — full archive
 
