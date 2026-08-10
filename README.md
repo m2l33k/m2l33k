@@ -1,10 +1,13 @@
 <!-- ===================== HACKER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=200&section=header&text=m2l33k&fontColor=00ff9c&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%3E%20Aspiring%20Pentester%20//%20Ethical%20Hacking%20//%20Security%20Automation&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=220&section=header&text=m2l33k&fontColor=00ff9c&fontSize=85&animation=fadeIn&fontAlignY=38&desc=%3E%20Aspiring%20Pentester%20//%20Ethical%20Hacking%20//%20Security%20Automation&descAlignY=60&descSize=18" width="100%"/>
+
+<!-- glitch / matrix code stream -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40m2l33k%3A~%23+whoami;Malek+Aziz+Hassayoun+//+Security+Engineer;Breaking+things+to+understand+how+they+work;sudo+hack+--the+--planet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FF9C&center=true&vCenter=true&width=760&height=90&lines=root%40m2l33k%3A~%23+access+granted+_;whoami+%3E+Malek+Aziz+Hassayoun;Aspiring+Pentester+%2F%2F+Security+Engineer;Breaking+things+to+learn+how+they+work;sudo+hack+--the+--planet+--ethically" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,15 +37,19 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/m2l33k?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&color=00ff9c&labelColor=0A0A0A" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 </div>
 
-<!-- ===================== ASCII DIVIDER ===================== -->
+<!-- ===================== ABOUT ===================== -->
 ```console
 ┌──(m2l33k㉿kali)-[~]
 └─$ cat ./about.txt
 ```
 
-## `> whoami`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=200&height=32&lines=%3E+whoami" alt="whoami"/>
+
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
 
 ```python
 class M2l33k:
@@ -54,7 +61,7 @@ class M2l33k:
         self.education   = "B.S. Software Engineering @ ESPRIT"
 
     def mission(self):
-        return "Analyze vulns, automate defense, sharpen detection & response"
+        return "Analyze vulns, automate defense, sharpen detection"
 ```
 
 I build and learn in cybersecurity and software development. My focus is on practical security work: analyzing vulnerabilities, automating defensive workflows, and experimenting with tools that improve detection and response.
@@ -64,13 +71,17 @@ I build and learn in cybersecurity and software development. My focus is on prac
 - 🤝 **Collaboration:** IEEE projects, open-source contributions, security-focused teams
 - 📡 **Contact:** `malekaziz.hassayoun@ieee.org` • Discord: `m2l3ktn`
 
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 <!-- ===================== TECH STACK ===================== -->
 ```console
 ┌──(m2l33k㉿kali)-[~]
 └─$ ./enum_stack.sh --show-all
 ```
 
-## `> arsenal`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=220&height=32&lines=%3E+arsenal" alt="arsenal"/>
 
 <div align="center">
 
@@ -109,13 +120,15 @@ I build and learn in cybersecurity and software development. My focus is on prac
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 <!-- ===================== EDUCATION ===================== -->
 ```console
 ┌──(m2l33k㉿kali)-[~]
 └─$ cat /var/log/education.log
 ```
 
-## `> education`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=260&height=32&lines=%3E+education" alt="education"/>
 
 | Degree | Institution | Location | Period | Status | Focus Areas |
 | --- | --- | --- | --- | --- | --- |
@@ -126,12 +139,14 @@ I build and learn in cybersecurity and software development. My focus is on prac
 - `[+]` ESPRIT highlights: multiple pentesting internships, active in IEEE projects
 - `[+]` Preparatory coursework: Mathematics, Physics, Computer Science Fundamentals, Engineering Principles, Problem Solving
 
-## `> online_courses`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=300&height=32&lines=%3E+online_courses" alt="online courses"/>
 
 | Course | Provider | Year |
 | --- | --- | --- |
 | CyberSecurity 101 | TryHackMe | 2025 |
 | Global Education Program Focused on AI | Samsung Innovation Campus | 2025 |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- ===================== INTERNSHIPS ===================== -->
 ```console
@@ -139,7 +154,7 @@ I build and learn in cybersecurity and software development. My focus is on prac
 └─$ ./recon.sh --target internships
 ```
 
-## `> internships`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=280&height=32&lines=%3E+internships" alt="internships"/>
 
 | Company | Role | Period | Location | Technologies | Key Outcome | Proof |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -148,13 +163,15 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | TALAN-TUNISIA | Pentesting web application intern | Jun 2024 – Sep 2024 | Tunis, Tunisia | OWASP ZAP, Python, Web Security, Automation | Automated OWASP ZAP workflows with scripts | [Certificate](https://res.cloudinary.com/dvmuvjukn/image/upload/v1766060199/Capture_d_%C3%A9cran_2025-12-18_131434_qjcrmc.png) |
 | ESPRIT | Pentesting WiFi/Bluetooth intern | Jun 2024 – Aug 2024 | Tunis, Tunisia | Wireless Security, Bluetooth Security, Network Attacks, Countermeasures | Reduced attack surface by 40% via countermeasures | [Certificate](https://res.cloudinary.com/dvmuvjukn/image/upload/v1766060203/Capture_d_%C3%A9cran_2025-12-18_131442_r92h0t.png) |
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 <!-- ===================== PROJECTS ===================== -->
 ```console
 ┌──(m2l33k㉿kali)-[~]
 └─$ ls -la ./payloads/
 ```
 
-## `> projects`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=240&height=32&lines=%3E+projects" alt="projects"/>
 
 ### `[ public_repos ]`
 
@@ -179,13 +196,15 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | Phishing awareness training | Cybersecurity | 2024 | Interactive training to prevent phishing attacks |
 | NextJEEL | Dev | 2024 | Modern responsive platform for interactive learning |
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 <!-- ===================== CERTIFICATIONS ===================== -->
 ```console
 ┌──(m2l33k㉿kali)-[~]
 └─$ gpg --verify ./certs/*.sig
 ```
 
-## `> certifications`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=320&height=32&lines=%3E+certifications" alt="certifications"/>
 
 | Certification | Issuer | Year | Category | Status | Credential ID | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -213,13 +232,15 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | Python Essentials 1 | Python Institute | 2025 | Dev | Active | 054bf6b2-8d3d-468e-a078-ec3473a2afff | https://www.credly.com/badges/054bf6b2-8d3d-468e-a078-ec3473a2afff/public_url |
 | AWS Training Badge | AWS | 2025 | Dev | Active | c8c788e5-d0d9-4723-95b4-e78d4c268aec | https://www.credly.com/badges/c8c788e5-d0d9-4723-95b4-e78d4c268aec/public_url |
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 <!-- ===================== GITHUB STATS ===================== -->
 ```console
 ┌──(m2l33k㉿kali)-[~]
 └─$ ./exfil_stats.sh --format matrix
 ```
 
-## `> github_stats`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&width=300&height=32&lines=%3E+github_stats" alt="github stats"/>
 
 <div align="center">
 
@@ -236,6 +257,15 @@ I build and learn in cybersecurity and software development. My focus is on prac
 
 <br/><br/>
 
+<!-- Contribution snake (auto-generated by .github/workflows/snake.yml on the 'output' branch) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m2l33k/m2l33k/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m2l33k/m2l33k/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/m2l33k/m2l33k/output/snake.svg" />
+</picture>
+
+<br/><br/>
+
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=m2l33k&theme=high-contrast&bg_color=0A0A0A&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true" />
 
 <br/>
@@ -244,8 +274,14 @@ I build and learn in cybersecurity and software development. My focus is on prac
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+node.;Stay+curious.+Hack+ethically.;%5B+connection+closed+%5D" alt="footer typing" />
+</a>
 
 ```console
 ┌──(m2l33k㉿kali)-[~]
@@ -253,6 +289,6 @@ I build and learn in cybersecurity and software development. My focus is on prac
 [+] Connection closed. Stay curious. Hack ethically.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:203a43,100:0f2027&height=140&section=footer" width="100%"/>
 
 </div>
