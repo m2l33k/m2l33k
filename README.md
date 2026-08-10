@@ -270,7 +270,9 @@ I build and learn in cybersecurity and software development. My focus is on prac
 
 <br/>
 
-<img alt="Visitor counter" src="https://profile-counter.glitch.me/m2l33k/count.svg" />
+<img alt="Visitor counter" src="https://count.getloli.com/get/@m2l33k?theme=moebooru" />
+<br/><br/>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=m2l33k.m2l33k&left_text=VISITORS&left_color=0A0A0A&right_color=00ff9c" />
 
 </div>
 
