@@ -1,95 +1,145 @@
+<!-- ===================== HACKER BANNER ===================== -->
 <div align="center">
-  <h1>Malek Aziz Hassayoun (m2l33k)</h1>
-  <p>IT Student • Volunteer • Aspiring Pentester • Security &amp; Ethical Hacking</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/malek-hassayoun/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/m2l3k.arm">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-    </a>
-    <a href="mailto:malekaziz.hassayoun@ieee.org">
-      <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://facebook.com/malek.hassayoun">
-      <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@malekaziz.hassayoun">
-      <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
-    </a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=200&section=header&text=m2l33k&fontColor=00ff9c&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%3E%20Aspiring%20Pentester%20//%20Ethical%20Hacking%20//%20Security%20Automation&descAlignY=60&descSize=18" width="100%"/>
 
-  <p>
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=m2l33k&style=flat&color=6b5b95" />
-    <img alt="Followers" src="https://img.shields.io/github/followers/m2l33k?label=Followers&style=flat&color=6b5b95" />
-    <img alt="Stars" src="https://img.shields.io/github/stars/m2l33k?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat&color=6b5b95" />
-  </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40m2l33k%3A~%23+whoami;Malek+Aziz+Hassayoun+//+Security+Engineer;Breaking+things+to+understand+how+they+work;sudo+hack+--the+--planet" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ===================== SOCIAL / STATUS BADGES ===================== -->
+<p>
+  <a href="https://www.linkedin.com/in/malek-hassayoun/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
+  </a>
+  <a href="https://instagram.com/m2l3k.arm">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00FF9C" />
+  </a>
+  <a href="mailto:malekaziz.hassayoun@ieee.org">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
+  </a>
+  <a href="https://facebook.com/malek.hassayoun">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=00FF9C" />
+  </a>
+  <a href="https://medium.com/@malekaziz.hassayoun">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=00FF9C" />
+  </a>
+</p>
+
+<p>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=m2l33k&style=for-the-badge&color=00ff9c&label=INTRUSIONS" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/m2l33k?label=FOLLOWERS&style=for-the-badge&color=00ff9c&labelColor=0A0A0A" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/m2l33k?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&color=00ff9c&labelColor=0A0A0A" />
+</p>
+
 </div>
 
-## About
+<!-- ===================== ASCII DIVIDER ===================== -->
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ cat ./about.txt
+```
+
+## `> whoami`
+
+```python
+class M2l33k:
+    def __init__(self):
+        self.name        = "Malek Aziz Hassayoun"
+        self.role        = "IT Student | Volunteer | Aspiring Pentester"
+        self.focus       = ["Ethical Hacking", "Web Security", "Automation"]
+        self.location    = "Ariana, Tunisia"
+        self.education   = "B.S. Software Engineering @ ESPRIT"
+
+    def mission(self):
+        return "Analyze vulns, automate defense, sharpen detection & response"
+```
 
 I build and learn in cybersecurity and software development. My focus is on practical security work: analyzing vulnerabilities, automating defensive workflows, and experimenting with tools that improve detection and response.
 
-- Interests: penetration testing, web security, automation, incident response, secure coding
-- Current: B.S. Software Engineering @ ESPRIT (Ariana, Tunisia)
-- Collaboration: IEEE projects, open-source contributions, security-focused teams
-- Contact: `malekaziz.hassayoun@ieee.org` • Discord: `m2l3ktn`
+- 🛰️ **Interests:** penetration testing, web security, automation, incident response, secure coding
+- 🎓 **Current:** B.S. Software Engineering @ ESPRIT (Ariana, Tunisia)
+- 🤝 **Collaboration:** IEEE projects, open-source contributions, security-focused teams
+- 📡 **Contact:** `malekaziz.hassayoun@ieee.org` • Discord: `m2l3ktn`
 
-## Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ ./enum_stack.sh --show-all
+```
 
-<div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000000" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-</div>
+## `> arsenal`
 
 <div align="center">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" />
+
+**`[ LANGUAGES ]`**
+
+<img alt="Python" src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00FF9C" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=00FF9C" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=00FF9C" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=00FF9C" />
+<img alt="C" src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00FF9C" />
+<img alt="Java" src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
+<img alt="Bash" src="https://img.shields.io/badge/Bash-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=00FF9C" />
+
+**`[ FRAMEWORKS ]`**
+
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=00FF9C" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00FF9C" />
+<img alt="Flask" src="https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask&logoColor=00FF9C" />
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=00FF9C" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=00FF9C" />
+<img alt="React" src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00FF9C" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-0A0A0A?style=for-the-badge&logo=angular&logoColor=00FF9C" />
+
+**`[ INFRA & TOOLS ]`**
+
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=00FF9C" />
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=00FF9C" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00FF9C" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00FF9C" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=00FF9C" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=00FF9C" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=00FF9C" />
+<img alt="Git" src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00FF9C" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF9C" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C" />
+
 </div>
 
-<div align="center">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</div>
+<!-- ===================== EDUCATION ===================== -->
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ cat /var/log/education.log
+```
 
-## Education
+## `> education`
 
 | Degree | Institution | Location | Period | Status | Focus Areas |
 | --- | --- | --- | --- | --- | --- |
 | B.S. Software Engineering | The High Private School of Engineering and Technology (ESPRIT) | Ariana, Tunisia | 2023 – Present | In Progress | Cybersecurity, AI & ML, Blockchain, DevSecOps, Software Architecture |
 | Preparatory Studies for Engineering | Faculty of Sciences Monastir | Monastir, Tunisia | 2020 – 2023 | Graduated | STEM foundation, CS fundamentals, engineering principles |
 
-- ESPRIT coursework: Software Architecture, Cybersecurity, AI & Machine Learning, Blockchain Technology, DevSecOps
-- ESPRIT highlights: multiple pentesting internships, active in IEEE projects
-- Preparatory coursework: Mathematics, Physics, Computer Science Fundamentals, Engineering Principles, Problem Solving
+- `[+]` ESPRIT coursework: Software Architecture, Cybersecurity, AI & Machine Learning, Blockchain Technology, DevSecOps
+- `[+]` ESPRIT highlights: multiple pentesting internships, active in IEEE projects
+- `[+]` Preparatory coursework: Mathematics, Physics, Computer Science Fundamentals, Engineering Principles, Problem Solving
 
-## Online Courses
+## `> online_courses`
 
 | Course | Provider | Year |
 | --- | --- | --- |
 | CyberSecurity 101 | TryHackMe | 2025 |
 | Global Education Program Focused on AI | Samsung Innovation Campus | 2025 |
 
-## Internships
+<!-- ===================== INTERNSHIPS ===================== -->
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ ./recon.sh --target internships
+```
+
+## `> internships`
 
 | Company | Role | Period | Location | Technologies | Key Outcome | Proof |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -98,9 +148,15 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | TALAN-TUNISIA | Pentesting web application intern | Jun 2024 – Sep 2024 | Tunis, Tunisia | OWASP ZAP, Python, Web Security, Automation | Automated OWASP ZAP workflows with scripts | [Certificate](https://res.cloudinary.com/dvmuvjukn/image/upload/v1766060199/Capture_d_%C3%A9cran_2025-12-18_131434_qjcrmc.png) |
 | ESPRIT | Pentesting WiFi/Bluetooth intern | Jun 2024 – Aug 2024 | Tunis, Tunisia | Wireless Security, Bluetooth Security, Network Attacks, Countermeasures | Reduced attack surface by 40% via countermeasures | [Certificate](https://res.cloudinary.com/dvmuvjukn/image/upload/v1766060203/Capture_d_%C3%A9cran_2025-12-18_131442_r92h0t.png) |
 
-## Projects
+<!-- ===================== PROJECTS ===================== -->
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ ls -la ./payloads/
+```
 
-### Public Repos
+## `> projects`
+
+### `[ public_repos ]`
 
 | Project | Period | Category | Status | Highlights | Stack (high level) | Repo Badges |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -113,7 +169,7 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | TechPioneers | 2024 | Dev | Completed | E-learning platform, modern SWE focus | Symfony 6, MySQL, JS | [Repo](https://github.com/m2l33k/techPioneers) ![Stars](https://img.shields.io/github/stars/m2l33k/techPioneers?style=flat) ![Issues](https://img.shields.io/github/issues/m2l33k/techPioneers?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/m2l33k/techPioneers?style=flat) |
 | Luducatio (Chess Robot) | 2024 | AI | Completed | Chess learning robot, CV + ML | Python, ML, OpenCV | [Repo](https://github.com/m2l33k/ChessRobot) ![Stars](https://img.shields.io/github/stars/m2l33k/ChessRobot?style=flat) ![Issues](https://img.shields.io/github/issues/m2l33k/ChessRobot?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/m2l33k/ChessRobot?style=flat) |
 
-### Other Work (no public repo linked)
+### `[ other_work ]` — no public repo linked
 
 | Project | Category | Period | Outcome |
 | --- | --- | --- | --- |
@@ -123,7 +179,13 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | Phishing awareness training | Cybersecurity | 2024 | Interactive training to prevent phishing attacks |
 | NextJEEL | Dev | 2024 | Modern responsive platform for interactive learning |
 
-## Certifications
+<!-- ===================== CERTIFICATIONS ===================== -->
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ gpg --verify ./certs/*.sig
+```
+
+## `> certifications`
 
 | Certification | Issuer | Year | Category | Status | Credential ID | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -151,21 +213,46 @@ I build and learn in cybersecurity and software development. My focus is on prac
 | Python Essentials 1 | Python Institute | 2025 | Dev | Active | 054bf6b2-8d3d-468e-a078-ec3473a2afff | https://www.credly.com/badges/054bf6b2-8d3d-468e-a078-ec3473a2afff/public_url |
 | AWS Training Badge | AWS | 2025 | Dev | Active | c8c788e5-d0d9-4723-95b4-e78d4c268aec | https://www.credly.com/badges/c8c788e5-d0d9-4723-95b4-e78d4c268aec/public_url |
 
-## GitHub Stats
+<!-- ===================== GITHUB STATS ===================== -->
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ ./exfil_stats.sh --format matrix
+```
+
+## `> github_stats`
 
 <div align="center">
-  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=m2l33k&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
-  <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=m2l33k&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+
+<img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=m2l33k&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+<img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=m2l33k&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF9C&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img alt="GitHub Streak" height="180" src="https://streak-stats.demolab.com?user=m2l33k&theme=chartreuse-dark&hide_border=true&background=0A0A0A&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+<br/><br/>
+
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=m2l33k&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+<br/><br/>
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=m2l33k&theme=high-contrast&bg_color=0A0A0A&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true" />
+
+<br/>
+
+<img alt="Visitor counter" src="https://profile-counter.glitch.me/m2l33k/count.svg" />
+
 </div>
 
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img alt="GitHub Streak" height="180" src="https://streak-stats.demolab.com?user=m2l33k&theme=dracula&hide_border=true" />
-</div>
 
-<div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=m2l33k&theme=dracula&hide_border=true" />
-</div>
+```console
+┌──(m2l33k㉿kali)-[~]
+└─$ exit
+[+] Connection closed. Stay curious. Hack ethically.
+```
 
-<div align="center">
-  <img alt="Visitor counter" src="https://profile-counter.glitch.me/m2l33k/count.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
 </div>
